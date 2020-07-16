@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='jpconfig',
+    name='jp-config',
     version='1.0.0',
     description='dict to json file object.',
     author='James Phillips',
